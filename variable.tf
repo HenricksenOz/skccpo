@@ -3,6 +3,6 @@ variable "amazon_linux" {
   default = "ami-0f9ae750e8274075b"
 }
 
-variable "user08-Key" {
+variable "dev_keyname" {
   default = "user08-Key"
 }
